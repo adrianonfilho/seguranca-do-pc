@@ -4,7 +4,7 @@ import os
 import time
 
 # Configurações do Telegram
-TELEGRAM_BOT_TOKEN = '7191146742:AAGrLhdh-iWFA8N7XcfFpAXtMMDDx9ulwIM'  # Substitua pelo token do seu bot
+TELEGRAM_BOT_TOKEN = ''  # Substitua pelo token do seu bot
 TELEGRAM_CHAT_ID = ''  # Substitua pelo ID do chat
 
 def enviar_mensagem_telegram(mensagem):
